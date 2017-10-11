@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Facebook
+Comment=The Facebook Application
+Terminal=false
+Type=Application
+Exec=xdg-open http://www.facebook.com/
+Icon=/usr/share/web-apps/Facebook.svg

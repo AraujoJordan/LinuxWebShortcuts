@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Google Docs
+Comment=The Google Docs Application
+Terminal=false
+Type=Application
+Exec=xdg-open https://docs.google.com/document/u/0/
+Icon=/usr/share/web-apps/GoogleDocs.svg

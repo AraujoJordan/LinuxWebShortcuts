@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Google Calendar
+Comment=The Google Calendar Application
+Terminal=false
+Type=Application
+Exec=xdg-open https://calendar.google.com/calendar/render?pli=1#main_7%7Cmonth
+Icon=/usr/share/web-apps/GoogleCalendar.svg

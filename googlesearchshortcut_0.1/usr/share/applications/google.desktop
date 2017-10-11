@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Google
+Comment=The Google Search Application
+Terminal=false
+Type=Application
+Exec=xdg-open http://www.google.com/
+Icon=/usr/share/web-apps/google.svg

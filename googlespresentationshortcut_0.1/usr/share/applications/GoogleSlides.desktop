@@ -2,8 +2,8 @@
 
 [Desktop Entry]
 Encoding=UTF-8
-Name=Google Slides
-Comment=The Google Slides Application
+Name=Google Presentation
+Comment=The Google Presentation Application
 Terminal=false
 Type=Application
 Exec=xdg-open https://docs.google.com/presentation/u/0/

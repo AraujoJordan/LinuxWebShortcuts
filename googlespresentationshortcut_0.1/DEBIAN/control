@@ -1,0 +1,10 @@
+Package: googlePresentationShortcut
+Version: 0.1
+Section: base
+Priority: optional
+Architecture: i386
+Depends:
+Maintainer: Jordan Lira <jordanjr.92@gmail.com>
+Description: Google Presentation
+ It runs the default browser with the google presentation link
+

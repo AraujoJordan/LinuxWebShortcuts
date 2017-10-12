@@ -7,4 +7,4 @@ Comment=The Google Spreadsheet Application
 Terminal=false
 Type=Application
 Exec=xdg-open https://docs.google.com/spreadsheets/u/0/
-Icon=/usr/share/web-apps/GoogleSpreadsheets.png
+Icon=/usr/share/web-apps/GoogleSpreadsheet.png

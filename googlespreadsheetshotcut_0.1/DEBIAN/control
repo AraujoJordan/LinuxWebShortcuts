@@ -6,5 +6,4 @@ Architecture: i386
 Depends:
 Maintainer: Jordan Lira <jordanjr.92@gmail.com>
 Description: Google Spreadsheet
- It runs the default browser with the google spreadsheet link
-
+ It runs the default browser with the google spreadsheet lin

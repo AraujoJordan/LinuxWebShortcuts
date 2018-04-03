@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Drive
+Comment=The Google Drive Application
+Terminal=false
+Type=Application
+Exec=xdg-open https://drive.google.com/drive/my-drive
+Icon=/usr/share/web-apps/gdrive.svg
